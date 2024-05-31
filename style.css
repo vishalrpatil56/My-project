@@ -133,19 +133,6 @@
     width: 70%;
     font-size: 1rem;
 }
-.panel-insta {
-    display: flex;
-    align-items: center;
-    font-size: 1rem;
-    font-weight: 700;
-    margin: 15px;
-    
-.id{
-    margin-left: 5px;
-    background-color: #222f3d;
-    color: white;
-}
-}
 
 /** big section**/
 
